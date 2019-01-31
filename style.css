@@ -1,0 +1,20 @@
+.purple-rain{
+    background-color: darkviolet;
+    color: red
+}
+
+/* .BlogPost-hover{
+    background-color: darkviolet;
+    color: red
+} */
+
+.red-text{
+    color: red;
+    font-size: 3em;
+}
+
+.void-background{
+    background-color: darkslategrey;
+    text-decoration-color: antiquewhite
+}
+
